@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+reports/*.csv
+reports/*.json
+reports/*.md
+reports/figures/*.png
+artifacts/*
+outputs/*
